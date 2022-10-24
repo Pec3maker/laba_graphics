@@ -1,0 +1,1 @@
+fun UByte.toByteArray() = ByteArray(1) { this.toByte() }
